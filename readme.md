@@ -1,12 +1,10 @@
 University of Central Florida
 School of Electrical Engineering & Computer Science
 COP 3402: System Software
-Fall 2009
 
 Homework #2 (Lexical Analyzer)
 (Team project  Maximum of two people per team.)
 
-Due Sunday Oct. 4th, 2009 by 11:59 p.m. 
 
 Goal:
 In this assignment you have to implement a lexical analyzer for the language nested C/0. Your program must be capable to read in a source program written in nested C/0, identify some errors, and produce, as output, the source program, the source program lexeme table, and a list of lexemes. 
